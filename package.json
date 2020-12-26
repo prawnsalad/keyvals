@@ -1,0 +1,11 @@
+{
+  "name": "keyvals",
+  "version": "1.0.0",
+  "description": "Parse a key/value string into an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Darren Whitlen <darren@darrenwhitlen.com>",
+  "license": "MIT"
+}
